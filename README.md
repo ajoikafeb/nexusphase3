@@ -116,7 +116,9 @@ Ikuti langkah berikut:
 memory=4GB
 processors=2
 ```
+## 📸 Tampilan Node Terkena Killed/terminate
 
+![Tampilan CLI Nexus Node](assets/killed.png)
 4. Simpan, lalu di terminal Windows jalankan:
 ```bash
 wsl --shutdown
