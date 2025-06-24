@@ -97,6 +97,9 @@ File kredensial kamu akan disimpan di:
 ```
 
 ---
+## 📸 Tampilan Node Berhasil Jalan
+
+![Tampilan CLI Nexus Node](assets/Screenshot 2025-06-24 104825.png)
 
 ## ❗ Solusi Jika Tiba-Tiba “Killed”
 
