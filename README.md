@@ -1,7 +1,7 @@
 
 # 🚀 Panduan Instalasi Nexus CLI Node untuk Pemula 
 
-Panduan ini cocok untuk kamu yang baru pertama kali mencoba menjalankan **Nexus Network CLI Node** di laptop baru menggunakan **WSL (Windows Subsystem for Linux)** atau Linux Ubuntu.
+Panduan ini cocok untuk kamu yang baru pertama kali mencoba menjalankan **Nexus Network CLI Node** di device dekstop menggunakan **WSL (Windows Subsystem for Linux)** atau Linux Ubuntu.
 
 > ✅ Cocok untuk: **Windows 10/11 + WSL2 / Ubuntu 20.04+**  
 > 🧪 Jaringan: **Testnet Beta**  
