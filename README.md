@@ -99,7 +99,7 @@ File kredensial kamu akan disimpan di:
 ---
 ## 📸 Tampilan Node Berhasil Jalan
 
-![Tampilan CLI Nexus Node](assets/assets/berhasil.png)
+![Tampilan CLI Nexus Node](assets/berhasil.png)
 
 ## ❗ Solusi Jika Tiba-Tiba “Killed”
 
